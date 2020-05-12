@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RajdeepApp</string>
+    <string-array name="currency">
+        <item>AUD</item>
+        <item>AED</item>
+        <item>CAD</item>
+        <item>CNY</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>JPY</item>
+        <item>KWR</item>
+        <item>RUB</item>
+        <item>USD</item>
+    </string-array>
+</resources>
